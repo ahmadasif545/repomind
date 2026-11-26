@@ -6,8 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/ahmadasif545/repomind?style=social)](https://github.com/ahmadasif545/repomind)
 
-[Report a Bug](https://github.com/ahmadasif545/repomind/issues) · [Request a Feature](https://github.com/ahmadasif545/repomind/issues)
-
+[🚀 Live Demo](https://api.dasyal.com/sites/cmww7dxik02dp3psy961s77zi) · [Report a Bug](https://github.com/ahmadasif545/repomind/issues) · [Request a Feature](https://github.com/ahmadasif545/repomind/issues)
 
 ---
 
@@ -18,6 +17,7 @@ Opening an unfamiliar codebase is painful. Repomind fixes that.
 Paste a GitHub repository URL (public **or private**) and Repomind fetches the entire project and turns it into an interactive visual map of its file structure. Click any file and an AI explains it in plain English, including **which other files it depends on** and **which files depend on it**.
 
 Free. Open source. Bring your own keys.
+
 
 ## ✨ Features
 
